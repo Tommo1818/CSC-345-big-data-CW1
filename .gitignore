@@ -1,0 +1,10 @@
+/coarse_labels.csv
+/fine_labels.csv
+/trnImage.npy
+/trnLabel_coarse.npy
+/trnLabel.npy
+/tstImage.npy
+/tstLabel_coarse.npy
+/tstLabel_fine.npy
+/tsnLabel_fine.npy
+/tstLabel.npy
